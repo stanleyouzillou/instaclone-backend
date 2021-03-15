@@ -1,0 +1,17 @@
+{
+  "name": "nomad-instaclone",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanleyouzillou/instaclone-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanleyouzillou/instaclone-backend/issues"
+  },
+  "homepage": "https://github.com/stanleyouzillou/instaclone-backend#readme"
+}
